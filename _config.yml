@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Changshuai Wang"
 title_separator          : "-"
 name                     : &name "Changshuai Wang"
 description              : &description "PhD Student at SEU (Southeast University)"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "p1.png"
   name             : "Changshuai Wang"
-  pronouns         : "He"  
+  pronouns         : # "He"  
   bio              : "PhD Student at SEU (Southeast University)"
   location         : "Nanjing, China"
   employer         : "Southeast University"
-  uri              : https://seuwcs.github.io/ChangshuaiWang.github.io/
+  uri              : # https://seuwcs.github.io/ChangshuaiWang.github.io/
   email            : "chdwcs@gmail.com" 
 
   # Academic websites
