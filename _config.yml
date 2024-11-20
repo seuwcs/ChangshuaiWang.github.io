@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "p1.png"
   name             : "Changshuai Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He"  
   bio              : "PhD Student at SEU (Southeast University)"
   location         : "Nanjing, China"
   employer         : "Southeast University"
-  uri              : # URL
+  uri              : https://seuwcs.github.io/ChangshuaiWang.github.io/
   email            : "chdwcs@gmail.com" 
 
   # Academic websites
